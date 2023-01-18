@@ -1,0 +1,2 @@
+D:\code\NET\Project\ShopCoffee\ShopCoffeeFE\obj\Debug\shopcoffeefe.esproj.SuggestedBindingRedirects.cache
+D:\code\NET\Project\ShopCoffee\ShopCoffeeFE\obj\Debug\shopcoffeefe.esproj.CoreCompileInputs.cache

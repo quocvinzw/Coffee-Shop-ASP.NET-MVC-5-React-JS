@@ -1,0 +1,294 @@
+/* widget: Line Diamond Separator */
+
+div.sep_diamond {
+    content: "";
+    height: 10px;
+    left: 50%;
+    margin: -5px auto auto -5px;
+    position: absolute;
+    transform: rotate(-45deg);
+    width: 10px;
+}
+
+div.separator {
+    border-top: 1px solid;
+    clear: both;
+    display: inline-block;
+    position: relative;
+}
+
+/* widget: Price List */
+
+#uc_price_list_elementor57324 * {
+    box-sizing: border-box;
+}
+
+#uc_price_list_elementor57324 li {
+    list-style: none;
+}
+
+#uc_price_list_elementor57324 .menu-list {
+    padding: 0px;
+    display: grid;
+}
+
+#uc_price_list_elementor57324 .menu-img {
+    flex-grow: 0;
+    flex-shrink: 0;
+    display: flex;
+}
+
+#uc_price_list_elementor57324 .menu-img img {
+    width: 100%;
+    display: block;
+}
+
+#uc_price_list_elementor57324 .ue_price_list_item {
+    display: flex;
+    overflow: hidden;
+
+}
+
+#uc_price_list_elementor57324 .menu-items:last-child {
+    border-bottom: none;
+}
+
+
+#uc_price_list_elementor57324 .menu-wrappertitle {
+    display: flex;
+    align-items: center;
+
+}
+
+#uc_price_list_elementor57324 .menu-wrapperall {
+    flex-grow: 1;
+
+}
+
+
+
+
+#uc_price_list_elementor57324 .menu-text-separator {
+
+    align-self: center;
+    flex-grow: 1;
+}
+
+#uc_price_list_elementor57324 .ue_price_list_seperator {
+    border-style: dotted;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+}
+
+#uc_price_list_elementor57324 .menu-text {}
+
+#uc_price_list_elementor57324 .menu-price {
+
+    flex-grow: 0;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+
+#uc_price_list_elementor57324 .menu-title {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+
+#uc_price_list_elementor57324 .menu-wrapperall {
+    display: flex;
+    width: 100%;
+}
+
+#uc_price_list_elementor57324 .menu-wrappermidlle {
+    width: 100%;
+}
+
+
+#uc_price_list_elementor57324 .ue_price_list_image_spacing {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+#uc_price_list_elementor57324 li.menu-items:last-child .ue_price_list_item_seperator {
+    display: none;
+}
+
+#uc_price_list_elementor57324 .ue_price_list_badge {
+    display: inline-block;
+}
+
+.ue_price_list_badge {
+    font-size: 10px;
+}
+
+#uc_price_list_elementor57324 a {
+    text-decoration: none;
+}
+
+#uc_price_list_elementor57324 .menu-price-spacing {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+/* widget: Price List */
+
+#uc_price_list_elementor61935 * {
+    box-sizing: border-box;
+}
+
+#uc_price_list_elementor61935 li {
+    list-style: none;
+}
+
+#uc_price_list_elementor61935 .menu-list {
+    padding: 0px;
+    display: grid;
+}
+
+#uc_price_list_elementor61935 .menu-img {
+    flex-grow: 0;
+    flex-shrink: 0;
+    display: flex;
+}
+
+#uc_price_list_elementor61935 .menu-img img {
+    width: 100%;
+    display: block;
+}
+
+#uc_price_list_elementor61935 .ue_price_list_item {
+    display: flex;
+    overflow: hidden;
+
+}
+
+#uc_price_list_elementor61935 .menu-items:last-child {
+    border-bottom: none;
+}
+
+
+#uc_price_list_elementor61935 .menu-wrappertitle {
+    display: flex;
+    align-items: center;
+
+}
+
+#uc_price_list_elementor61935 .menu-wrapperall {
+    flex-grow: 1;
+
+}
+
+
+
+
+#uc_price_list_elementor61935 .menu-text-separator {
+
+    align-self: center;
+    flex-grow: 1;
+}
+
+#uc_price_list_elementor61935 .ue_price_list_seperator {
+    border-style: dotted;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+}
+
+#uc_price_list_elementor61935 .menu-text {}
+
+#uc_price_list_elementor61935 .menu-price {
+
+    flex-grow: 0;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+
+#uc_price_list_elementor61935 .menu-title {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+
+#uc_price_list_elementor61935 .menu-wrapperall {
+    display: flex;
+    width: 100%;
+}
+
+#uc_price_list_elementor61935 .menu-wrappermidlle {
+    width: 100%;
+}
+
+
+#uc_price_list_elementor61935 .ue_price_list_image_spacing {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+#uc_price_list_elementor61935 li.menu-items:last-child .ue_price_list_item_seperator {
+    display: none;
+}
+
+#uc_price_list_elementor61935 .ue_price_list_badge {
+    display: inline-block;
+}
+
+.ue_price_list_badge {
+    font-size: 10px;
+}
+
+#uc_price_list_elementor61935 a {
+    text-decoration: none;
+}
+
+#uc_price_list_elementor61935 .menu-price-spacing {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+/* widget: Business Hours */
+
+#uc_business_hours_elementor110403 {
+    overflow: hidden;
+}
+
+#uc_business_hours_elementor110403 .ue_business_hours_list_item {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+#uc_business_hours_elementor110403 .ue_business_hours_list_item_title {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+#uc_business_hours_elementor110403 .ue_business_hours_list_item_text {
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+#uc_business_hours_elementor110403 .ue_business_hours_list_item_line {
+    flex-grow: 1;
+}
+
+#uc_business_hours_elementor110403 .ue_business_hours_list_item_seperator:last-child {
+    display: none;
+}
+
+#uc_business_hours_elementor110403 .ue_business_hours_list_item_line {
+    width: 100%;
+}
+
+.ue_business_hours_header_title {
+    font-size: 21px;
+}
